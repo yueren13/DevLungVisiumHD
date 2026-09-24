@@ -1,0 +1,11 @@
+leiden_key,n_cells,n_clusters,smallest_cluster,largest_cluster,palette_source,umap_displayed_cells
+scvi_leiden_0p1,622964,4,26311,405213,microViz brewerPlus,250000
+scvi_leiden_0p2,622964,8,94,213827,microViz brewerPlus,250000
+scvi_leiden_0p3,622964,10,94,117185,microViz brewerPlus,250000
+scvi_leiden_0p4,622964,11,94,114574,microViz brewerPlus,250000
+scvi_leiden_0p5,622964,16,80,107706,microViz brewerPlus,250000
+scvi_leiden_0p6,622964,19,75,80858,microViz brewerPlus,250000
+scvi_leiden_0p7,622964,20,63,58319,microViz brewerPlus,250000
+scvi_leiden_0p8,622964,29,63,50548,microViz brewerPlus,250000
+scvi_leiden_0p9,622964,21,63,53952,microViz brewerPlus,250000
+scvi_leiden_1p0,622964,24,63,51391,microViz brewerPlus,250000
