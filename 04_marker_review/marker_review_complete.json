@@ -1,0 +1,25 @@
+{
+  "graph": {
+    "path": "/host_root/nethome/reny28/Projects/ShortProject/LungDev_VisiumHD_example/tmp/lungdev_stardist_proseg_resolvi_v1/08_scvi_joint_lungdev/backbone06D_hvg3000_nb_latent30_seed17/03_graph/LungDev_scvi_leiden_0p1_to_1p0.h5ad",
+    "bytes": 1085140788,
+    "mtime_ns": 1790127302000000000
+  },
+  "marker_id": "cd9cb64f164830259bcf621f4370416a83225444b8271bbb8c82b3dd1d33cd91",
+  "keys": [
+    "scvi_leiden_0p1",
+    "scvi_leiden_0p2",
+    "scvi_leiden_0p3",
+    "scvi_leiden_0p4",
+    "scvi_leiden_0p5",
+    "scvi_leiden_0p6",
+    "scvi_leiden_0p7",
+    "scvi_leiden_0p8",
+    "scvi_leiden_0p9",
+    "scvi_leiden_1p0"
+  ],
+  "dpi": 300,
+  "color_mode": "gene_max",
+  "dot_area": "max_area * sqrt(raw_fraction_gt0)",
+  "expression": "mean(log1p(1e4 * raw_marker_count / full_gene_raw_total)); zeros included",
+  "model_decoded_expression_used": false
+}

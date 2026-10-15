@@ -1,0 +1,571 @@
+{
+  "programs": {
+    "Epithelial (broad)": [
+      "EPCAM",
+      "KRT8",
+      "KRT18",
+      "KRT19",
+      "MUC1"
+    ],
+    "Alveolar type 1": [
+      "AGER",
+      "HOPX",
+      "CAV1",
+      "CAV2",
+      "PDPN",
+      "EMP2"
+    ],
+    "Alveolar type 2": [
+      "SFTPC",
+      "SFTPB",
+      "SFTPA1",
+      "SFTPA2",
+      "ABCA3",
+      "NAPSA",
+      "SLC34A2"
+    ],
+    "Ciliated": [
+      "FOXJ1",
+      "TPPP3",
+      "PIFO",
+      "CAPS",
+      "RSPH1",
+      "CDHR3"
+    ],
+    "Club / secretory": [
+      "SCGB1A1",
+      "SCGB3A1",
+      "SCGB3A2",
+      "CYP2F1",
+      "PIGR"
+    ],
+    "Goblet / secretory": [
+      "MUC5AC",
+      "SPDEF",
+      "AGR2",
+      "CLCA1",
+      "BPIFB1"
+    ],
+    "Basal": [
+      "KRT5",
+      "TP63",
+      "KRT14",
+      "KRT17",
+      "KRT15"
+    ],
+    "Pulmonary neuroendocrine": [
+      "CHGA",
+      "CHGB",
+      "ASCL1",
+      "GRP",
+      "CALCA",
+      "SYP"
+    ],
+    "Epithelial progenitor (review)": [
+      "SOX9",
+      "SOX2",
+      "ETV5",
+      "ID2",
+      "HMGA2"
+    ],
+    "Mesothelial": [
+      "MSLN",
+      "UPK3B",
+      "CALB2",
+      "WT1"
+    ],
+    "Vascular endothelial": [
+      "PECAM1",
+      "VWF",
+      "CLDN5",
+      "EMCN",
+      "KDR",
+      "RAMP2",
+      "CA4"
+    ],
+    "Lymphatic endothelial": [
+      "PROX1",
+      "LYVE1",
+      "FLT4",
+      "CCL21",
+      "PDPN"
+    ],
+    "Fibroblast": [
+      "DCN",
+      "LUM",
+      "COL1A1",
+      "COL1A2",
+      "COL3A1",
+      "PDGFRA"
+    ],
+    "Smooth muscle": [
+      "MYH11",
+      "ACTA2",
+      "TAGLN",
+      "CNN1",
+      "DES"
+    ],
+    "Pericyte": [
+      "RGS5",
+      "CSPG4",
+      "PDGFRB",
+      "NOTCH3",
+      "ABCC9",
+      "KCNJ8"
+    ],
+    "Chondrocyte": [
+      "ACAN",
+      "CHAD",
+      "COL9A3",
+      "HAPLN1",
+      "CYTL1",
+      "COL2A1",
+      "SOX9",
+      "COMP",
+      "MATN3"
+    ],
+    "Perichondrial fibroblast (review)": [
+      "COL12A1",
+      "FLNB",
+      "FGFR2",
+      "LGR4",
+      "LGR6"
+    ],
+    "Immune (broad)": [
+      "PTPRC",
+      "LAPTM5",
+      "SRGN",
+      "TYROBP"
+    ],
+    "Macrophage": [
+      "C1QA",
+      "C1QB",
+      "C1QC",
+      "APOE",
+      "CSF1R",
+      "CD68",
+      "MARCO"
+    ],
+    "Monocyte": [
+      "FCN1",
+      "VCAN",
+      "CD14",
+      "LYZ",
+      "S100A8"
+    ],
+    "Mast": [
+      "TPSAB1",
+      "TPSB2",
+      "CPA3",
+      "KIT",
+      "MS4A2",
+      "HDC"
+    ],
+    "T cell": [
+      "CD3D",
+      "CD3E",
+      "TRBC1",
+      "TRBC2",
+      "LCK"
+    ],
+    "NK cell": [
+      "NKG7",
+      "GNLY",
+      "KLRD1",
+      "PRF1"
+    ],
+    "B cell": [
+      "CD79A",
+      "MS4A1",
+      "CD74",
+      "IGHM",
+      "CD22"
+    ],
+    "Plasma cell": [
+      "MZB1",
+      "JCHAIN",
+      "SDC1",
+      "IGKC",
+      "DERL3"
+    ],
+    "Dendritic cell": [
+      "FCER1A",
+      "CD1C",
+      "CLEC10A",
+      "HLA-DRA",
+      "CLEC9A"
+    ],
+    "Neutrophil": [
+      "FCGR3B",
+      "CSF3R",
+      "CXCR2",
+      "S100A8",
+      "S100A9"
+    ],
+    "Erythroid": [
+      "HBA1",
+      "HBA2",
+      "HBB",
+      "ALAS2",
+      "GYPA"
+    ],
+    "Platelet / megakaryocyte": [
+      "PPBP",
+      "PF4",
+      "TUBB1",
+      "GP9"
+    ],
+    "Schwann / nerve": [
+      "SOX10",
+      "S100B",
+      "PLP1",
+      "MPZ"
+    ],
+    "Cycling state (not a cell type)": [
+      "MKI67",
+      "TOP2A",
+      "PCNA",
+      "MCM5"
+    ]
+  },
+  "panels": {
+    "overview": {
+      "Alveolar type 1": [
+        "AGER",
+        "HOPX"
+      ],
+      "Alveolar type 2": [
+        "SFTPC",
+        "SFTPB",
+        "SFTPA1"
+      ],
+      "Ciliated": [
+        "FOXJ1",
+        "TPPP3"
+      ],
+      "Club / secretory": [
+        "SCGB1A1",
+        "SCGB3A1"
+      ],
+      "Basal": [
+        "KRT5",
+        "TP63"
+      ],
+      "Goblet / secretory": [
+        "MUC5AC",
+        "SPDEF"
+      ],
+      "Pulmonary neuroendocrine": [
+        "CHGA",
+        "CHGB"
+      ],
+      "Vascular endothelial": [
+        "PECAM1",
+        "VWF"
+      ],
+      "Lymphatic endothelial": [
+        "PROX1",
+        "LYVE1"
+      ],
+      "Fibroblast": [
+        "DCN",
+        "LUM"
+      ],
+      "Smooth muscle": [
+        "MYH11",
+        "ACTA2"
+      ],
+      "Pericyte": [
+        "RGS5",
+        "CSPG4"
+      ],
+      "Chondrocyte": [
+        "ACAN",
+        "CHAD",
+        "COL9A3"
+      ],
+      "Macrophage": [
+        "C1QA",
+        "C1QB"
+      ],
+      "Monocyte": [
+        "FCN1",
+        "VCAN"
+      ],
+      "Mast": [
+        "TPSAB1",
+        "TPSB2",
+        "CPA3"
+      ],
+      "T cell": [
+        "CD3D",
+        "CD3E"
+      ],
+      "NK cell": [
+        "NKG7",
+        "GNLY"
+      ],
+      "B cell": [
+        "CD79A",
+        "MS4A1"
+      ],
+      "Plasma cell": [
+        "MZB1",
+        "JCHAIN"
+      ],
+      "Dendritic cell": [
+        "FCER1A",
+        "CD1C"
+      ],
+      "Neutrophil": [
+        "FCGR3B",
+        "CSF3R"
+      ],
+      "Erythroid": [
+        "HBA1",
+        "HBA2"
+      ],
+      "Platelet / megakaryocyte": [
+        "PPBP",
+        "PF4"
+      ],
+      "Mesothelial": [
+        "MSLN",
+        "UPK3B"
+      ]
+    },
+    "epithelial": {
+      "Epithelial (broad)": [
+        "EPCAM",
+        "KRT8",
+        "KRT18",
+        "KRT19",
+        "MUC1"
+      ],
+      "Alveolar type 1": [
+        "AGER",
+        "HOPX",
+        "CAV1",
+        "CAV2",
+        "PDPN",
+        "EMP2"
+      ],
+      "Alveolar type 2": [
+        "SFTPC",
+        "SFTPB",
+        "SFTPA1",
+        "SFTPA2",
+        "ABCA3",
+        "NAPSA",
+        "SLC34A2"
+      ],
+      "Ciliated": [
+        "FOXJ1",
+        "TPPP3",
+        "PIFO",
+        "CAPS",
+        "RSPH1",
+        "CDHR3"
+      ],
+      "Club / secretory": [
+        "SCGB1A1",
+        "SCGB3A1",
+        "SCGB3A2",
+        "CYP2F1",
+        "PIGR"
+      ],
+      "Goblet / secretory": [
+        "MUC5AC",
+        "SPDEF",
+        "AGR2",
+        "CLCA1",
+        "BPIFB1"
+      ],
+      "Basal": [
+        "KRT5",
+        "TP63",
+        "KRT14",
+        "KRT17",
+        "KRT15"
+      ],
+      "Pulmonary neuroendocrine": [
+        "CHGA",
+        "CHGB",
+        "ASCL1",
+        "GRP",
+        "CALCA",
+        "SYP"
+      ],
+      "Mesothelial": [
+        "MSLN",
+        "UPK3B",
+        "CALB2",
+        "WT1"
+      ],
+      "Epithelial progenitor (review)": [
+        "SOX9",
+        "SOX2",
+        "ETV5",
+        "ID2",
+        "HMGA2"
+      ],
+      "Cycling state (not a cell type)": [
+        "MKI67",
+        "TOP2A",
+        "PCNA",
+        "MCM5"
+      ]
+    },
+    "vascular_stromal_cartilage": {
+      "Vascular endothelial": [
+        "PECAM1",
+        "VWF",
+        "CLDN5",
+        "EMCN",
+        "KDR",
+        "RAMP2",
+        "CA4"
+      ],
+      "Lymphatic endothelial": [
+        "PROX1",
+        "LYVE1",
+        "FLT4",
+        "CCL21",
+        "PDPN"
+      ],
+      "Fibroblast": [
+        "DCN",
+        "LUM",
+        "COL1A1",
+        "COL1A2",
+        "COL3A1",
+        "PDGFRA"
+      ],
+      "Smooth muscle": [
+        "MYH11",
+        "ACTA2",
+        "TAGLN",
+        "CNN1",
+        "DES"
+      ],
+      "Pericyte": [
+        "RGS5",
+        "CSPG4",
+        "PDGFRB",
+        "NOTCH3",
+        "ABCC9",
+        "KCNJ8"
+      ],
+      "Chondrocyte": [
+        "ACAN",
+        "CHAD",
+        "COL9A3",
+        "HAPLN1",
+        "CYTL1",
+        "COL2A1",
+        "SOX9",
+        "COMP",
+        "MATN3"
+      ],
+      "Perichondrial fibroblast (review)": [
+        "COL12A1",
+        "FLNB",
+        "FGFR2",
+        "LGR4",
+        "LGR6"
+      ],
+      "Schwann / nerve": [
+        "SOX10",
+        "S100B",
+        "PLP1",
+        "MPZ"
+      ]
+    },
+    "immune_blood": {
+      "Immune (broad)": [
+        "PTPRC",
+        "LAPTM5",
+        "SRGN",
+        "TYROBP"
+      ],
+      "Macrophage": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "CSF1R",
+        "CD68",
+        "MARCO"
+      ],
+      "Monocyte": [
+        "FCN1",
+        "VCAN",
+        "CD14",
+        "LYZ",
+        "S100A8"
+      ],
+      "Mast": [
+        "TPSAB1",
+        "TPSB2",
+        "CPA3",
+        "KIT",
+        "MS4A2",
+        "HDC"
+      ],
+      "T cell": [
+        "CD3D",
+        "CD3E",
+        "TRBC1",
+        "TRBC2",
+        "LCK"
+      ],
+      "NK cell": [
+        "NKG7",
+        "GNLY",
+        "KLRD1",
+        "PRF1"
+      ],
+      "B cell": [
+        "CD79A",
+        "MS4A1",
+        "CD74",
+        "IGHM",
+        "CD22"
+      ],
+      "Plasma cell": [
+        "MZB1",
+        "JCHAIN",
+        "SDC1",
+        "IGKC",
+        "DERL3"
+      ],
+      "Dendritic cell": [
+        "FCER1A",
+        "CD1C",
+        "CLEC10A",
+        "HLA-DRA",
+        "CLEC9A"
+      ],
+      "Neutrophil": [
+        "FCGR3B",
+        "CSF3R",
+        "CXCR2",
+        "S100A8",
+        "S100A9"
+      ],
+      "Erythroid": [
+        "HBA1",
+        "HBA2",
+        "HBB",
+        "ALAS2",
+        "GYPA"
+      ],
+      "Platelet / megakaryocyte": [
+        "PPBP",
+        "PF4",
+        "TUBB1",
+        "GP9"
+      ]
+    }
+  }
+}
