@@ -1,0 +1,36 @@
+[6.0K]  Xenium_Prime_Ovarian_Cancer_FFPE_XRrun
+├── [ 16M]  Xenium_Prime_Ovarian_Cancer_FFPE_XRrun_cell_groups.csv
+├── [3.8K]  Xenium_Prime_Ovarian_Cancer_FFPE_XRrun_gene_groups.csv
+├── [6.0K]  Xenium_Prime_Ovarian_Cancer_FFPE_XRrun_outs
+│   ├── [ 76M]  analysis.tar.gz
+│   ├── [3.0M]  analysis.zarr.zip
+│   ├── [ 14M]  analysis_summary.html
+│   ├── [393M]  aux_outputs.tar.gz
+│   ├── [ 97M]  cell_boundaries.csv.gz
+│   ├── [ 33M]  cell_boundaries.parquet
+│   ├── [104M]  cell_feature_matrix.h5
+│   ├── [350M]  cell_feature_matrix.tar.gz
+│   ├── [190M]  cell_feature_matrix.zarr.zip
+│   ├── [ 24M]  cells.csv.gz
+│   ├── [8.2M]  cells.parquet
+│   ├── [405M]  cells.zarr.zip
+│   ├── [2.8K]  experiment.xenium
+│   ├── [4.5M]  gene_panel.json
+│   ├── [2.2K]  metrics_summary.csv
+│   ├── [ 12G]  morphology.ome.tif
+│   ├── [6.0K]  morphology_focus
+│   │   ├── [1.1G]  morphology_focus_0000.ome.tif
+│   │   ├── [1.4G]  morphology_focus_0001.ome.tif
+│   │   ├── [987M]  morphology_focus_0002.ome.tif
+│   │   └── [1.2G]  morphology_focus_0003.ome.tif
+│   ├── [ 94M]  nucleus_boundaries.csv.gz
+│   ├── [ 31M]  nucleus_boundaries.parquet
+│   ├── [2.0G]  transcripts.parquet
+│   └── [4.2G]  transcripts.zarr.zip
+├── [ 25G]  Xenium_Prime_Ovarian_Cancer_FFPE_XRrun_outs.zip
+├── [9.5G]  Xenium_Prime_Ovarian_Cancer_FFPE_XRrun_xe_outs.zip
+└── [6.0K]  images
+    ├── [134K]  Xenium_Prime_Ovarian_Cancer_FFPE_XRrun_annotation.geojson
+    ├── [3.2G]  Xenium_Prime_Ovarian_Cancer_FFPE_XRrun_he_annotated_image.ome.tif
+    ├── [3.3G]  Xenium_Prime_Ovarian_Cancer_FFPE_XRrun_he_image.ome.tif
+    └── [ 125]  Xenium_Prime_Ovarian_Cancer_FFPE_XRrun_he_imagealignment.csv
