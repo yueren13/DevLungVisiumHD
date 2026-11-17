@@ -1,0 +1,35 @@
+[6.0K]  Xenium_Prime_Human_Lymph_Node_Reactive_FFPE
+├── [ 20M]  Xenium_Prime_Human_Lymph_Node_Reactive_FFPE_cell_types.csv
+├── [ 15K]  Xenium_Prime_Human_Lymph_Node_Reactive_FFPE_gene_groups.csv
+├── [6.0K]  Xenium_Prime_Human_Lymph_Node_Reactive_FFPE_outs
+│   ├── [123M]  analysis.tar.gz
+│   ├── [6.4M]  analysis.zarr.zip
+│   ├── [ 17M]  analysis_summary.html
+│   ├── [258M]  aux_outputs.tar.gz
+│   ├── [157M]  cell_boundaries.csv.gz
+│   ├── [ 51M]  cell_boundaries.parquet
+│   ├── [197M]  cell_feature_matrix.h5
+│   ├── [669M]  cell_feature_matrix.tar.gz
+│   ├── [240M]  cell_feature_matrix.zarr.zip
+│   ├── [ 38M]  cells.csv.gz
+│   ├── [ 13M]  cells.parquet
+│   ├── [485M]  cells.zarr.zip
+│   ├── [2.3K]  experiment.xenium
+│   ├── [3.9M]  gene_panel.json
+│   ├── [2.1K]  metrics_summary.csv
+│   ├── [8.0G]  morphology.ome.tif
+│   ├── [6.0K]  morphology_focus
+│   │   ├── [785M]  morphology_focus_0000.ome.tif
+│   │   ├── [857M]  morphology_focus_0001.ome.tif
+│   │   ├── [783M]  morphology_focus_0002.ome.tif
+│   │   └── [876M]  morphology_focus_0003.ome.tif
+│   ├── [158M]  nucleus_boundaries.csv.gz
+│   ├── [ 48M]  nucleus_boundaries.parquet
+│   ├── [2.8G]  transcripts.parquet
+│   └── [4.6G]  transcripts.zarr.zip
+├── [ 21G]  Xenium_Prime_Human_Lymph_Node_Reactive_FFPE_outs.zip
+├── [8.5G]  Xenium_Prime_Human_Lymph_Node_Reactive_FFPE_xe_outs.zip
+└── [6.0K]  images
+    ├── [ 30K]  Xenium_Prime_Human_Lymph_Node_Reactive_FFPE_annotation.geojson
+    ├── [2.3G]  Xenium_Prime_Human_Lymph_Node_Reactive_FFPE_he_image.ome.tif
+    └── [ 124]  Xenium_Prime_Human_Lymph_Node_Reactive_FFPE_he_imagealignment.csv
